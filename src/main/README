@@ -1,0 +1,18 @@
+The goal of this application is to create a computer based application that will start off with a java windows interface and then be integrated into a web browser
+
+This will end up using Java, MySQL, React, and Springboot in order to create this project.
+The beginning steps are to:
+ capture user input and display it on screen.
+ decide how the program is going to save the massive text fields
+ set up intermediate file structure
+ learn how to create windows in java and customize them to display the way I want.
+
+ The Idea:
+ I want to create a multi-file structured note taking application so that notes can be more easily organized and categorized.
+ The overall structure will look similar to an IDE where you have a root folder for the "project" or "subject" and then can create
+ sub directories in order to group different notes together.  Think of something like "chemistry" as the subject, but a subdirectory that is "chapter 1" and another subdirectory that is "sublimation"
+
+ This idea was thought of by me Tank, because I want to be able to type up notes and categorize them for DND, so in my example the subject is "campagin 1" but the subdirectories would be "town 1" "town 2",
+ and from there you can add people as a directory and so on.
+
+ This is going to be a long project.
